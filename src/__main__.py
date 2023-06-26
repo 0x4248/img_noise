@@ -1,3 +1,9 @@
+# Img noise
+# A python script to add noise to images.
+# Github: https://www.github.com/aweomelewis2007/img_noise
+# Licence: GNU General Public License v3.0
+# By: Lewis Evans
+
 import argparse
 import imgnoise
 import os
