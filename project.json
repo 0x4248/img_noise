@@ -1,0 +1,14 @@
+{
+    "name": "img_noise",
+    "description": "A python script to add noise to images.",
+    "version": "",
+    "main_file": "src/__main__.py",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "/img_noise",
+    "email": "none",
+    "languages": [
+        "python"
+    ],
+    "actions": {}
+}
