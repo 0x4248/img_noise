@@ -18,3 +18,7 @@ options:
   --noise NOISE, -n NOISE
                         noise type (brightness or colour)
 ```
+
+## License
+
+This project is licenced under the GNU General Public License v3.0 - see the [LICENCE](LICENCE) file for details.
