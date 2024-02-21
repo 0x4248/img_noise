@@ -4,7 +4,7 @@ A python script to add noise to images.
 
 ## Usage
 
-```bash
+```
 usage: __main__.py [-h] [--input INPUT] [--output OUTPUT] [--noise NOISE]
 
 Add noise to a image
